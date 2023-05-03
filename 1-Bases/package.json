@@ -1,0 +1,17 @@
+{
+  "name": "1-bases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercice0.js",
+  "scripts": {
+    "start": "node exercice4.js",
+    "fusion": "node exercice4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
